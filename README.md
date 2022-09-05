@@ -2,6 +2,8 @@
 <h3 align="center">Amature Devloper!!!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sachidananda-17&label=Profile%20views&color=0e75b6&style=flat" alt="sachidananda-17" /> </p>
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/b3d66b974674bbc62092d95f047dfbb677f512ce22fcd89d259e4fdcdfd0b816/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c697665732d496e6469612d73756363657373"><img src="https://camo.githubusercontent.com/b3d66b974674bbc62092d95f047dfbb677f512ce22fcd89d259e4fdcdfd0b816/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c697665732d496e6469612d73756363657373" data-canonical-src="https://img.shields.io/badge/Lives-India-success" style="max-width: 100%;"></a>
+
 
 <p align="left"> <a href="https://twitter.com/manideepkarala1" target="blank"><img src="https://img.shields.io/twitter/follow/manideepkarala1?logo=twitter&style=for-the-badge" alt="manideepkarala1" /></a> </p>
 

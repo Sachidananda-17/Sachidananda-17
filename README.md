@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **sachidananda_k@srmap.edu.in**
 
-- ⚡ Fun fact **STILL DECODING MY SELF🤪**
+- ⚡ Fun fact **Morethan 700 programming languages are there but i did had count how many i know🤪**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

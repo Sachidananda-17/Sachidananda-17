@@ -2,6 +2,7 @@
 <h3 align="center">Amature Devloper!!!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sachidananda-17&label=Profile%20views&color=0e75b6&style=flat" alt="sachidananda-17" /> </p>
+<img align="right" alt="Coding" width="400" src=""C:\Users\HP\OneDrive\Desktop\68747470733a2f2f616e616c7974696373696e6469616d61672e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031382f31322f646576656c6f7065722d6472696262626c652e676966.gif"">
 
 - 🌱 I’m currently learning **Flutter, Java Script**
 
@@ -11,6 +12,7 @@
 
 - ⚡ Fun fact **Morethan 700 programming languages are there but i did had count how many i know🤪**
 <hr>
+<img>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/manideepkarala1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="manideepkarala1" height="30" width="40" /></a>

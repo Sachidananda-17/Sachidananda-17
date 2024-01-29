@@ -17,7 +17,6 @@
 
 - 📫 How to reach me **sachidananda_k@srmap.edu.in**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/14GZVYYVWm1bCDqxK-eqCzOTvXOuMr1t3/view?usp=sharing](https://drive.google.com/file/d/14GZVYYVWm1bCDqxK-eqCzOTvXOuMr1t3/view?usp=sharing)
 
 - ⚡ Fun fact **STILL DECODING MY SELF🤪**
 
